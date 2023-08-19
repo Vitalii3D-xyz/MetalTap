@@ -5,5 +5,8 @@ Developing this version of Tap required a lot of investments, please consider bu
 
 ![example of work](/images/tap.gif)
 
+## Assembling Instructions For Kit
+[Assembling Instructions](https://www.youtube.com/watch?v=gwPNVVCuMag)
+
 ## How to attach belts
 ![Belts](/images/loop_instruction.jpeg)
