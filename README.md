@@ -16,6 +16,15 @@ Drop in replacement for original Voron Tap designed especially for CNC milling. 
 - 2 6x3mm N52 disc magnet, get N52m or N52s if you plan to print in high temperature chamber as neodymium will loose magnetism forever after 80C
 - 7 Mx3x4x5 heat insert
 
+# Support for other optical sensors
+[yonkimen](https://github.com/yonkiman) adapter for inexpensive optical endstop
+
+Sensor: https://www.amazon.com/gp/product/B07MFT8NWJ?th=1
+
+Model: https://www.printables.com/model/803495-modified-opto-mount-for-vitalii-tap/
+
+![img_0630 copy](https://github.com/Vitalii3D-xyz/MetalTap/assets/131134819/3f61f02c-7481-441f-89e6-bfad1b7f0ebf)
+
 ## Assembling Instructions For Kit
 [Assembling Instructions](https://www.youtube.com/watch?v=gwPNVVCuMag)
 
